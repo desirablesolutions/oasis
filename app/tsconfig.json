@@ -20,6 +20,8 @@
       }
     ],
     "paths": {
+      "@includes/*":["./src/views/includes/*"],
+      "@components/*": ["./src/views/components/*"],
       "@internals/*": ["./src/*"]
     }
   },
